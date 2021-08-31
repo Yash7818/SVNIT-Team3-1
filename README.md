@@ -1,8 +1,18 @@
 
 
-## Available Scripts
+## Technologies used
+Front end is developed in `React.js`
+For backend `Finnhub` api is used.
+The open source library `Chart.js` is used for displaying the charts.
 
-In the project directory, you can run:
+
+
+## Scripts for app to be up and running.
+
+
+### `yarn install`
+
+Installs all the dependencies which are being used in the app.
 
 ### `yarn run front`
 
